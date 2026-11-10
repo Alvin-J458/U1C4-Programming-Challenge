@@ -7,27 +7,44 @@ public class Solution {
     public Solution() {}
 
     public boolean endsLy(String x) {
-        //implement code here
-        return false;
+        
+        if (x.length() <=2 ) {
+            return false;
+        }
+       
+           
+      return false;
+        
+        
+       
+        
     }
 
     public String conCat(String s1, String s2) {
-        //implement code here
-        return "";
+        String v = s1.substring();
+        if (condition) {
+            
+        }
+        return "" ;
     }
 
     public String withoutX(String s1) {
-        //implement code here
+        String KK = s1.substring(0, 1);
+        if (KK.equals(x)) {
+            return s1.r
+        }
         return "";
     }
 
     public String fizzString(String s1) {
-        //implement code here
+        String p = s1.substring(0, 1);
+        
+
         return "";
     }
 
     public String fizzString2(int x) {
-        //implement code here
+        String t = "";
         return "";
     }
 
